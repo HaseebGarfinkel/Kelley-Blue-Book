@@ -1,0 +1,5 @@
+Volkswagen Jetta 16225
+Color Fort-Knox-Gold-Clearcoat-Metallic 0 Liquid-Grey-Clearcoat-Metallic 0 Infra-Red-Clearcoat 0 Grabber-Green-Clearcoat-Metallic 0 Sangria-Red-Clearcoat-Metallic 0 French-Blue-Clearcoat-Metallic 0 Twilight-Blue-Clearcoat-Metallic 0
+Brakes Standard 0 ABS 200 ABSAdvance 1325
+AirBags None 0 Selected 150 
+Moonroof None 0 Selected 855

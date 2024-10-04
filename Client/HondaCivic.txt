@@ -1,0 +1,7 @@
+Honda Civic 13155
+Color Infra-Red-Clearcoat 0 Grabber-Green-Clearcoat-Metallic 0 Sangria-Red-Clearcoat-Metallic 0 Twilight-Blue-Clearcoat-Metallic 0 CD-Silver-Clearcoat-Metallic 0 Pitch-Black-Clearcoat 0 Cloud-9-White-Clearcoat 0 
+Transmission Automatic 0 Standard -485
+Brakes Standard 0 ABS 125 ABSAdvance 650
+AirBags None 0 Selected 100
+Moonroof None 0 Selected 700
+Usage New 0 Used -5000
